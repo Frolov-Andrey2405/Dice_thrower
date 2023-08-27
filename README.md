@@ -23,6 +23,7 @@ In games like Dungeons & Dragons and other tabletop role-playing games special d
 4. Input the desired dice roll in the format "NdM" and optional modifiers.
 
 ## Sample Output
-
+```
 Input: `3d6+2`
 Output: `Total: 16 (Each die:6, 2, 6, +2)`
+```
